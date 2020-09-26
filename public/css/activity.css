@@ -1,0 +1,13 @@
+#active{
+    font-family: "Raleway";
+    font-weight: bold;
+    margin-right: 50px;
+}
+#middle{
+    margin-left: -50px;
+}
+th,td{
+    font-family: "Raleway";
+   color: #2c3e50;
+}
+}
